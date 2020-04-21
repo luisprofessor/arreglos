@@ -16,6 +16,9 @@ public class Lab1_arreglos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Ejemplo1 ej1=new Ejemplo1();
+        ej1.m2();
     }
     
 }
